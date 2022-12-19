@@ -1,2 +1,2 @@
 # log_Automation
-# Bash script to automte the manual checking of logs for error
+# Bash script to automate the manual checking of logs for error
